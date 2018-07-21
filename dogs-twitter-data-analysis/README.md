@@ -8,9 +8,9 @@ WeRateDogs [下载了他们的推特档案](https://support.twitter.com/articles
 
 # Dependencies
 
-- 你需要在电脑上用 Jupyter Notebook 操作。请再次访问纳米学位课程中的 Anaconda 和 Jupyter Notebook 教程，作为安装指南。
+- 你需要在电脑上用 Jupyter Notebook 操作。
 
-- 需要安装下列软件包（即 Python 库）。你可以通过 conda 或 pip 安装这些库。请再次访问纳米学位课程中的 Anaconda 和 Jupyter Notebook 教程，作为文件包的安装指南。
+- 需要安装下列软件包（即 Python 库）。你可以通过 conda 或 pip 安装这些库。
 
   - pandas
   - numpy
